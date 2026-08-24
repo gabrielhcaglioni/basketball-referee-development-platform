@@ -91,6 +91,7 @@ forms/
 - [Product Backlog](docs/product-backlog.md) — todas as funcionalidades da plataforma, organizadas por módulo e prioridade (P0/P1/P2)
 - [MVP V0.1](docs/mvp-v0.1.md) — escopo mínimo da primeira versão programável
 - [Roadmap](docs/roadmap.md) — evolução planejada da plataforma, de V0.1 até V1.0
+- [Development Journal](docs/development-journal.md). 
 
 ## Author
 
