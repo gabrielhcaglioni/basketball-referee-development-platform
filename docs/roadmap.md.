@@ -1,0 +1,31 @@
+# Roadmap — Basketball Referee Development Platform
+
+## V0.1 — Núcleo funcional
+- Cadastro / Login
+- Perfil básico
+- Novo jogo (manual)
+- Autoavaliação completa
+- Histórico simples
+
+## V0.2
+- Edição de perfil
+- Filtros no histórico (período, categoria)
+- Contexto detalhado da partida
+- Pontos de destaque / a desenvolver (extraídos das respostas)
+
+## V0.3
+- Dashboard (gráficos básicos de evolução)
+- Identificação de recorrências / análise por categoria
+
+## V0.4
+- Avaliação externa (segundo tipo de usuário: avaliador/coordenador)
+- Comparação entre autoavaliação e avaliação externa
+
+## V0.5
+- Módulo Competições estruturado (hoje é campo texto livre)
+- Módulo Administração (permissões, papéis de usuário)
+
+## V1.0
+- Integrações automáticas (súmula, escala, estatísticas)
+- Notificações
+- Recomendações automáticas / inteligência de padrões
